@@ -28,10 +28,9 @@ Embora este repositório seja principalmente para fins de aprendizado e desenvol
 
 ## Contato
 
-Se você tiver dúvidas, sugestões ou simplesmente quiser trocar ideias sobre programação, entre em contato comigo através das issues no GitHub ou [seu email/LinkedIn].
+Se você tiver dúvidas, sugestões ou simplesmente quiser trocar ideias sobre programação, entre em contato comigo através das issues no GitHub.
 
 Espero que você encontre algo interessante ou útil aqui. Obrigado por visitar meu repositório!
 
 ---
 
-**Nota**: Certifique-se de adaptar as informações de contato e qualquer outro detalhe específico para refletir sua situação e preferências.
